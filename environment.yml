@@ -4,6 +4,7 @@ channels:
 dependencies:
   - matplotlib
   - numpy
+  - resample
   - pip
   - pip:
     - matplotlib
